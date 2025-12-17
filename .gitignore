@@ -34,3 +34,7 @@ build/
 
 .env
 .env.*
+# Database files
+*.db
+lab10.db
+*.sqlite
