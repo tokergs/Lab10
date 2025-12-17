@@ -19,9 +19,9 @@ Spring Boot REST API application with user management, database migrations, and 
 - POST /users/login - Authenticate user
 
 ## How to Run
-\\\ash
+\\
 ./mvnw spring-boot:run
-\\\
+\\
 
 ## Technologies
 - Java 17
