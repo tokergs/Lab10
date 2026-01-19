@@ -1,4 +1,4 @@
-﻿# Lab 10: HTTP Implementation with Java Spring Boot
+﻿# Lab 10-12: HTTP Implementation with Java Spring Boot
 
 ## Student: Ivan Bilets
 
@@ -34,3 +34,26 @@ Spring Boot REST API application with user management, database migrations, and 
 
 ## Submission
 Lab 10 completed and ready for evaluation.
+
+
+## Question
+Что такое JPA?
+Что такое Hibernate?
+Hibernate — это просто перевод Java → SQL?
+Где именно Hibernate превращает методы в SQL?
+Почему мы не пишем SQL вручную?
+Что такое Entity?
+Как класс User становится таблицей в БД?
+Что происходит при save(user)?
+Кто парсит JSON в Java-объект?
+Зачем нужны DTO?
+Почему нельзя возвращать Entity напрямую?
+Как Spring понимает, как из JSON сделать объект?
+Что вообще происходит, когда я запускаю Spring Boot приложение?
+Что такое Tomcat и зачем он нужен?
+Что такое Spring Container и зачем он нужен?
+Чем Spring Container отличается от Docker?
+Как связаны между собой:
+Controller → Service → Repository → Database
+Когда я отправляю HTTP-запрос, по каким шагам он проходит внутри приложения?
+Как Spring “прыгает” по коду по аннотациям?
